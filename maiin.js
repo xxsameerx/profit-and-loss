@@ -1,3 +1,4 @@
+// Step 1 - selecting all the elements
 var initialPrice = document.querySelector("#initial-price");
 var stocksQuantity = document.querySelector("#stocks-quantity");
 var currentPrice = document.querySelector("#current-price");

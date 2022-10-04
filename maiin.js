@@ -33,7 +33,7 @@ function calculateProfitAndLoss(initial, quantity, current) {
       `You incurred Profit of ${profit} and the percent is ${profitPercentage}% 💹`
     );
   } else {
-    showOutput(`No pain no gain and no gain no pain`);
+    showOutput(`Enter valid input`);
   }
 }
 

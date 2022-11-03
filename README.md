@@ -1,6 +1,9 @@
-#Profit_or_Loss
+# Profit_or_Loss
 
 A non-responsive website to calculate if we are making a profit or loss in the stock market. It has three inputs - Initial Price, Current Price and Quantity of stocks. It will show the user total profit or loss along with it's percentage.
+
+# Stack used:
+HTML5, CSS3 & JavaScript.
 
 First view :
 ![Screenshot (76)](https://user-images.githubusercontent.com/108549299/199591560-6071ce02-4409-4d4a-af83-ef9acd9511c9.png)
